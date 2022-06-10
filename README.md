@@ -7,3 +7,5 @@ Slides : https://github.com/bonjourcerise/simplon_seattleenergy_v1/blob/main/fil
 Power BI : https://github.com/bonjourcerise/simplon_seattleenergy_v1/blob/main/files/dashboard_energy.pbix
 
 Files production (EDA, model) :https://github.com/bonjourcerise/simplon_seattleenergy_v1/tree/main/files
+
+Project by : Imen, Amani, Melody, Cerise
